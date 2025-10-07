@@ -1,0 +1,98 @@
+export default [
+  {
+    id: 1,
+    img: {
+      src: "https://scrimba.com/links/travel-journal-japan-image-url",
+      alt: "Mount Fuji",
+    },
+    title: "Mount Fuji",
+    country: "Japan",
+    googleMapsLink: "https://maps.app.goo.gl/6RLYZDuuuqJ7kNGZ9",
+    dates: "12 Jan, 2021 - 24 Jan, 2021",
+    text: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+  },
+  {
+    id: 2,
+    img: {
+      src: "https://scrimba.com/links/travel-journal-australia-image-url",
+      alt: "Sydney Opera House",
+    },
+    title: "Sydney Opera House",
+    country: "Australia",
+    googleMapsLink: "https://maps.app.goo.gl/Zr17SCrsJeCEKMd36",
+    dates: "27 May, 2021 - 8 Jun, 2021",
+    text: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings.",
+  },
+  {
+    id: 3,
+    img: {
+      src: "https://scrimba.com/links/travel-journal-norway-image-url",
+      alt: "Geirangerfjord",
+    },
+    title: "Geirangerfjord",
+    country: "Norway",
+    googleMapsLink: "https://maps.app.goo.gl/fhkJuBhmFDv47tiB7",
+    dates: "01 Oct, 2021 - 18 Nov, 2021",
+    text: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
+  },
+  {
+    id: 4,
+    img: {
+      src: "https://plus.unsplash.com/premium_photo-1675700414747-d16f2bda6420?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGV0cmElMkMlMjBqb3JkYW58ZW58MHx8MHx8fDA%3D",
+      alt: "Petra",
+    },
+    title: "Petra",
+    country: "Jordan",
+    googleMapsLink: "https://maps.app.goo.gl/8XqZyZ1z6vYbZKJt9",
+    dates: "3 Mar, 2022 - 15 Mar, 2022",
+    text: "Petra, the ancient 'Rose City' carved into sandstone cliffs, was once the thriving capital of the Nabataean kingdom. Its most iconic structure, the Treasury, emerges dramatically from a narrow canyon called the Siq.",
+  },
+  {
+    id: 5,
+    img: {
+      src: "  https://media.istockphoto.com/id/492963464/photo/famous-neuschwanstein-castle-with-scenic-mountain-landscape-near.jpg?s=612x612&w=0&k=20&c=V9ab9SoUp0r-wxOTBDfv3IvPsr-3I4Ei1kEC3GYud-0=",
+      alt: "Neuschwanstein Castle",
+    },
+    title: "Neuschwanstein Castle",
+    country: "Germany",
+    googleMapsLink: "https://maps.app.goo.gl/3ZyYJv2u7KZ9vJtT8",
+    dates: "10 Sep, 2022 - 22 Sep, 2022",
+    text: "Perched atop the Bavarian Alps, Neuschwanstein Castle looks like it leapt straight out of a fairytale. Its whimsical towers and romantic design inspired Disney’s Sleeping Beauty castle.",
+  },
+  {
+    id: 6,
+    img: {
+      src: "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FudG9yaW5pfGVufDB8fDB8fHww",
+      alt: "Santorini",
+    },
+    title: "Santorini",
+    country: "Greece",
+    googleMapsLink: "https://maps.app.goo.gl/4YpXzZ3u6vK9vJtT9",
+    dates: "5 Jul, 2022 - 18 Jul, 2022",
+    text: "Santorini’s cliffside villages, with their whitewashed homes and cobalt domes, overlook the deep blue Aegean Sea. The island’s volcanic origins shaped its dramatic caldera and legendary sunsets.",
+  },
+  {
+    id: 7,
+    img: {
+      src: "https://media.istockphoto.com/id/1408749014/photo/sunrise-clouds-over-a-mountain-road-through-the-town-of-banff.jpg?s=612x612&w=0&k=20&c=58-GDBLM6hvbq-qXbFsilmcJUj5KYqf2hzGopXW8CL4=",
+      alt: "Banff National Park",
+    },
+    title: "Banff National Park",
+    country: "Canada",
+    googleMapsLink: "https://maps.app.goo.gl/2XqZyZ1z6vYbZKJt9",
+    dates: "12 Oct, 2022 - 25 Oct, 2022",
+    text: "Nestled in the heart of the Canadian Rockies, Banff is a paradise of turquoise lakes, snow-capped peaks, and alpine forests. Lake Louise and Moraine Lake offer postcard-perfect views that feel almost unreal.",
+  },
+  {
+    id: 8,
+    img: {
+      src: "https://media.istockphoto.com/id/637875248/photo/sheikh-zayed-mosque-abu-dhabi.jpg?s=612x612&w=0&k=20&c=JCUzNeVPxIBX155KotyAQUa6LWqcIrDd9hhmefqrBa4=",
+      alt: "Sheikh Zayed Grand Mosque",
+    },
+    title: "Sheikh Zayed Grand Mosque",
+    country: "United Arab Emirates",
+    googleMapsLink: "https://maps.app.goo.gl/5YpXzZ3u6vK9vJtT9",
+    dates: "1 Dec, 2022 - 10 Dec, 2022",
+    text: "A masterpiece of Islamic architecture, the Sheikh Zayed Grand Mosque in Abu Dhabi dazzles with its white marble domes, intricate mosaics, and 24-karat gold chandeliers. It’s a serene space that blends tradition with grandeur.",
+  },
+];
