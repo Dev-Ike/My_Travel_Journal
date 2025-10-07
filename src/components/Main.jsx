@@ -14,7 +14,7 @@ export default function Main(props) {
       <div className='info-container'>
         <img className='marker' src={locationIcon} alt='map marker icon' />
         <span className='country'>{props.entry.country}</span>
-        <a href='#' target='_blank'>
+        <a href={props.entry.googleMapsLink} target='_blank'>
           View on Google Maps
         </a>
         <h2 className='entry-title'>{props.entry.title}</h2>
